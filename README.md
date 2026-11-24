@@ -376,13 +376,13 @@ If you find this collection useful, please cite our [survey](https://doi.org/10.
 
 ```bibtex
 @article{tang2026probing,
-  title   = {Probing the Biomolecular Design Space with Generative Modeling},
-  author  = {Tang, Sophia and Zhang, Yinuo and Chatterjee, Pranam},
-  journal = {Current Opinion in Structural Biology},
-  volume  = {102},
-  pages   = {103428},
-  year    = {2027},
-  doi     = {10.1016/j.sbi.2026.103428}
+  title={Probing the Biomolecular Design Space with Generative Modeling},
+  author={Tang, Sophia and Zhang, Yinuo and Chatterjee, Pranam},
+  journal={Current Opinion in Structural Biology},
+  volume={102},
+  pages={103428},
+  year={2026},
+  doi={10.1016/j.sbi.2026.103428}
 }
 ```
 
